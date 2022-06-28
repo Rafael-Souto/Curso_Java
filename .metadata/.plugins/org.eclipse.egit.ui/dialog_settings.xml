@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<list key="EGit.KnownHosts">
+		<item value="git.eclipse.org"/>
+		<item value="bitbucket.org"/>
+		<item value="github.com"/>
+	</list>
+	<list key="RepositorySelectionPage.UsedUris">
+		<item value="https://github.com/Rafael-Souto/Curso-Java.git"/>
+		<item value="https://github.com/Rafael-Souto/curso_java.git"/>
+		<item value="C:\Users\rafae\git\curso_java"/>
+	</list>
+	<list key="CommitDialog.authorValues">
+		<item value="Rafael-Souto &lt;rafaelsouto1326@gmail.com&gt;"/>
+	</list>
+	<list key="CommitDialog.committerValues">
+		<item value="Rafael-Souto &lt;rafaelsouto1326@gmail.com&gt;"/>
+	</list>
+	<section name="org.eclipse.egit.ui.internal.staging.StagingView">
+		<item key="MAIN_SASH_FORM_ORIENTATION_VERTICAL" value="false"/>
+		<item key="HORIZONTAL_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="STAGING_SASH_FORM_WEIGHT" value="500,500"/>
+		<item key="sortItemState" value="false"/>
+	</section>
+	<section name="GitCommitMessageComponent">
+		<list key="C:\Users\rafae\git\Curso-Java\.git">
+			<item value="false"/>
+			<item value="Rafael-Souto &lt;rafaelsouto1326@gmail.com&gt;"/>
+			<item value="Primeiros exercícios - Estrutura Sequêncial"/>
+			<item value="Rafael-Souto &lt;rafaelsouto1326@gmail.com&gt;"/>
+			<item value="1ad3fb18c3985ddc6496bed41bec1d5f00874042"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+		<list key="C:\Users\rafae\git\Java\.git">
+			<item value="false"/>
+			<item value="Rafael-Souto &lt;rafaelsouto1326@gmail.com&gt;"/>
+			<item value="Primeiro commit, curso Java"/>
+			<item value="Rafael-Souto &lt;rafaelsouto1326@gmail.com&gt;"/>
+			<item value="0000000000000000000000000000000000000000"/>
+			<item value="0"/>
+			<item value="false"/>
+		</list>
+		<list key="C:\Users\rafae\git\curso_java\.git">
+			<item value="empty"/>
+		</list>
+	</section>
+</section>

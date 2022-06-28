@@ -1,0 +1,43 @@
+package appication;
+
+import java.util.ArrayList;
+import java.util.List;
+import java.util.Locale;
+import java.util.Scanner;
+import entities.Employee;
+
+public class Main {
+
+	public static void main(String[] args) {
+	
+		Locale.setDefault(Locale.US);
+		Scanner sc = new Scanner(System.in);
+		Employee employee = new Employee(); //Instanciação da classe
+		List<String> list = new ArrayList<>(); //Instanciação da lista
+				
+		System.out.print("How many employees will be registered? ");
+		int func = sc.nextInt();
+		
+//Laço de repetição para entrada  e armazenamento dos dados dos funcionários		
+		for (int i = 1; i <= func; i++) {
+			sc.nextLine();
+			System.out.println("Employee #" + i + ":");
+			System.out.print("Id: ");
+			Integer id = sc.nextInt();
+			System.out.print("Name: ");
+			String name = sc.nextLine();
+			sc.nextLine();
+			System.out.print("Salary: ");
+			Double salary = sc.nextDouble();
+		}
+		
+		System.out.print("Enter the employee id that will have salary increase: ");
+		Integer id = sc.nextInt();
+		System.out.print("Enter the percentage: ");
+		Double almento = sc.nextDouble();
+		
+		System.out.println("List of employees" + employee);
+		
+		sc.close();
+	}
+}
